@@ -99,11 +99,17 @@ For a series like **Mirzapur**, ratings per episode are plotted season by season
 
 ```
 📊 Average Ratings per Season:
-Season 1: 8.5
-Season 2: 8.1
+Season 1: 8.34
+Season 2: 7.2
+Season 3: 6.5
 ```
 
 *(Graph opens in a new window)*
+
+### 📷 Screenshot
+<img width="640" height="480" alt="Mirzapur" src="https://github.com/user-attachments/assets/b4147f9f-d089-4810-ae2f-8bcefddf9fc0" />
+
+
 
 ---
 
@@ -121,9 +127,3 @@ Season 2: 8.1
 Pull requests are welcome! If you’d like to add features (e.g., Rotten Tomatoes ratings, export to CSV/Excel), feel free to fork and submit.
 
 ---
-
-
-
----
-
-Would you like me to also **add screenshots** of sample terminal + graph output to the README (so it looks professional on GitHub)?
