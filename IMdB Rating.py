@@ -93,7 +93,7 @@ def main():
         elif response["Type"] == "series":
             get_series_data(title, response)
     else:
-        print("❌ Title not found. Please check spelling or try again later.")
+        print("❌ Title not found. Please check spelling or try again.")
 
 if __name__ == "__main__":
     main()
